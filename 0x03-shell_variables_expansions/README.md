@@ -4,3 +4,4 @@ add action to path
 counts no of dir in path
 global variables
 script that reads local variables
+script that prints new local variables
