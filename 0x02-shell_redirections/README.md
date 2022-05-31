@@ -5,3 +5,4 @@ display content of two files
 print last 10 lines
 print first 10 lines
 print third lines
+containing best school
