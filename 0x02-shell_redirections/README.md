@@ -6,3 +6,4 @@ print last 10 lines
 print first 10 lines
 print third lines
 containing best school
+save state of current directory
