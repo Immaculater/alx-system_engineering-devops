@@ -11,3 +11,4 @@ script that prints result of power and divide
 script that prints result followed by new line
 script that prints result that conver from base 2 to 10
 script that prints result of all possible combinations of two letters
+script that prints float
