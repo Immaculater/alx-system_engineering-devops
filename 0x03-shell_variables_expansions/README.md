@@ -13,3 +13,4 @@ script that prints result that conver from base 2 to 10
 script that prints result of all possible combinations of two letters
 script that prints float
 script that prints dec to hexa
+script that prints encodes and decodes
