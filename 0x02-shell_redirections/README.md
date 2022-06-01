@@ -9,3 +9,4 @@ script that displays num in partern of line
 lines containing partern
 files that do not contain bin
 files that starts with letters only
+files that replace all character
