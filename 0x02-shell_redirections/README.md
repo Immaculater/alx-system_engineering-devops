@@ -7,3 +7,4 @@ script that takes a list and prints words that appears once
 script that displays line containing parttern
 script that displays num in partern of line
 lines containing partern
+files that do not contain bin
