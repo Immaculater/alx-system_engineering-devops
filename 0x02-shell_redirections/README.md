@@ -15,3 +15,4 @@ script that reverse its input
 script that prints users and their home dir
 script that finds empty files
 script that prints files with .gif
+script that decodes acrostic
