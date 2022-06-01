@@ -14,3 +14,4 @@ script that prints result of all possible combinations of two letters
 script that prints float
 script that prints dec to hexa
 script that prints encodes and decodes
+script that prints every other line
